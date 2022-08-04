@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=cheese-framework&show_icons=true&theme=dark" width="700">
+<img src="https://github-readme-stats.vercel.app/api?username=cheese-framework&show_icons=true&theme=tokyonight" width="750">
 
  - 🔭 I’m currently working on an e-commerce application using flutter, it involves social chatting as well 😉
  - 🌱 I’m currently learning 2d animations
