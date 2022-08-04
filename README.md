@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=cheese-framework&show_icons=true" width="400">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cheese-framework)](https://git.io/streak-stats)
 
  - 🔭 I’m currently working on an e-commerce application using flutter, it involves social chatting as well 😉
  - 🌱 I’m currently learning 2d animations
