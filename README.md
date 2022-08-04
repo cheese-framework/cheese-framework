@@ -1,4 +1,4 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cheese-framework)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cheese-framework&theme=dark)](https://git.io/streak-stats)
 
  - 🔭 I’m currently working on an e-commerce application using flutter, it involves social chatting as well 😉
  - 🌱 I’m currently learning 2d animations
