@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
- 🔭 I’m currently working on an e-commerce application using flutter, it involves social chatting as well 😉
+ -🔭 I’m currently working on an e-commerce application using flutter, it involves social chatting as well 😉
  🌱 I’m currently learning 2d animations
  👯 I’m looking to collaborate on nodejs projects
  🤔 I’m looking for help with a drawing tablet
